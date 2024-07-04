@@ -1,2 +1,2 @@
 # Circular-Buffer-STL
-In this project I developed STL-compatible container
+Main goal of the project is develop STL-compatible container: https://en.wikipedia.org/wiki/Circular_buffer
